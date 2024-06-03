@@ -1,0 +1,8 @@
+K近邻算法实现手写数字识别
+
+interface.py文件是程序的主入口，运行interface.py即可运行程序
+
+testDigits是测试集文件
+trainingDigits是训练集文件
+
+testX.jpg则是用于进行单张图片识别测试的测试文件
